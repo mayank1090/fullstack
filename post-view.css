@@ -1,0 +1,54 @@
+
+.nav{
+    height: 80px;
+    border: 5px solid black;
+}
+.col1{
+    height: 85vh;
+    width: 25%;
+    border: 2px solid black;
+    
+}
+.col2{
+    height: 60vh;
+    width: 77%;
+    margin-left: 35px;
+    border: 5px solid black;
+    
+}
+.section{
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+}
+.comment{
+    height:80%;
+    width: 100%;
+    margin-top: 20%;
+    border: 5px solid black;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
+}
+.nav1{
+    height: 50px;
+    width: 400px;
+    border: 5px solid black;
+    margin-top: 20px;
+    margin-left: 90%;
+}
+.logout{
+    margin: 80px;
+    margin-top: 60%;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(218, 106, 111);
+}
+
+.cmt{
+    width: 60%;
+
+}

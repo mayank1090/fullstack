@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&family=Nunito+Sans:wght@200&display=swap');
+
+a{
+  color: black !important;
+}
+.brand-logo{
+  font-family: 'Nunito Sans', sans-serif;
+}
+.mycart{
+  margin-top: 20px;
+}
+.auth-card{
+padding:40px;
+max-width: 300px;
+margin: 2px auto;
+background-color: rgb(219, 46, 46);
+}
+.gallery{
+  display: flex;
+  justify-content: center;
+}
+.item{
+  width: 40%;
+}
+
+.home-card{
+  max-width: 420px;
+  height: max-content;
+  margin: 10px auto;
+}
+
+
+#toast-container{
+  top:50px;
+  right:30px;
+  left:auto !important;
+}
+
+.addcomment{
+  width: 60%;
+  margin: 70px;
+}
+
+.likes{
+  display: flex;
+
+}
+.comments{
+  margin-left: 80%;
+}
